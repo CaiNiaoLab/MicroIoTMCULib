@@ -1,0 +1,25 @@
+// 服务器发给设备端的，outputData是通信json，events是预设定和前端服务等绑定使用的，不下发给设备端。
+{
+  "device": [
+    {
+      "events": [
+        {
+          "identifier": "MircoIoTData",
+          "name": "outputData",
+          "desc": "Downlink",
+          "type": "info",
+          "callType": "async"
+        }
+      ],
+      "outputData": [
+        {
+          "identifier": "MircoIoTData",
+          "name": "Control",
+          "desc": "Downlink",
+          "type": "bool",
+          "data": "1"
+        }
+      ]
+    }
+  ]
+}
