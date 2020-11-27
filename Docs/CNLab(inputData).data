@@ -1,5 +1,0 @@
-/*
-* auto generate by AliOS Studio.
- */
-
-static const char TSL_STRING[] = "{\"services\":[{\"events\":[{\"identifier\":\"CC3200Data\",\"name\":\"inputData\",\"desc\":\"Report\",\"type\":\"info\",\"callType\":\"async\"}],\"inputData\":[{\"name\":\"Temperature\",\"dataType\":{\"type\":\"float\",\"specs\":{\"data\":\"23.33\"}}}]}]}";
