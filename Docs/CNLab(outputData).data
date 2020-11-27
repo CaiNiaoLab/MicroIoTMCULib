@@ -1,0 +1,5 @@
+/*
+* auto generate by AliOS Studio.
+ */
+
+static const char TSL_STRING[] = "{\"identifier\":\"MircoIoTData\",\"name\":\"Control\",\"desc\":\"Downlink\",\"type\":\"bool\",\"data\":\"1\"}";

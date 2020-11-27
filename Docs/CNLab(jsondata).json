@@ -1,0 +1,11 @@
+{
+  "identifier": "MircoIoTData",
+  "name": "Control",
+  "desc": "Downlink",
+  "outdata": [
+    {
+      "type": "bool",
+      "data": "1"
+    }
+  ]
+}
