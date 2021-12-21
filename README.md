@@ -47,7 +47,7 @@ EngLish: CaiNiaoLab micro-IoT platform open source project, device-side code.中
    ~ 绿色LED指示灯表示网络处理器已成功打开，只要未与AP建立连接，红色LED指示灯就会连续闪烁。
    ~ 建立后，红色LED会持续点亮一秒钟，然后所有LED都将关闭。
 
-4. 在主机PC或移动设备上，打开MQTT客户端应用程序。连接到我们用于此示例的实验室网站：www.probielab.cn。
+4. 在主机PC或移动设备上，打开MQTT客户端应用程序。连接到我们用于此示例的实验室网站：www.probielab.cn
 
 5. 订阅主题/cc3200/ButtonPressEvtSw3和/cc3200/ButtonPressEvtSw2。
 
